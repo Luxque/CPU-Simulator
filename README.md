@@ -1,10 +1,21 @@
 # CPU Simulator
 
-
 ## Preview
 
 
 
-## Features to be Added
+## About MIPS Architecture
 
-* File I/O
+
+
+## Features to be Implemented
+
+* Basic File I/O
+    * Data Block Parsing
+    * Code Block Parsing
+* Command-Line Simulation
+    * Register Report System
+    * Binary Code Conversion
+    * Error Handling
+* Data Path Simulation
+* Parallelism
