@@ -1,7 +1,11 @@
 # CPU Simulator
 
-## Preview
+## Project Description
 
+## Stack
+
+* C++
+* MIPS Assembly
 
 
 ## About MIPS Architecture
